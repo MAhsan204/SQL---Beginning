@@ -1,4 +1,4 @@
-# SQL---Beginning
+# SQL---Beginning Topics
 
 # SQL Learning Repository - SQL Server Management Studio (SSMS) 
 
